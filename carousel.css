@@ -11,8 +11,9 @@ a{
   color:#23527c;
 }
 .logo{
-  margin-left: -5px;
+  margin-left: -15px;
   width: 75px;
+  margin-top: 3px;
   margin-right: 10px;
 }
 
@@ -36,6 +37,7 @@ a{
 .navbar-wrapper .navbar {
   padding-right: 15px;
   padding-left: 15px;
+  margin-top: 30px;
 }
 .navbar-wrapper .navbar .container {
   width: auto;
